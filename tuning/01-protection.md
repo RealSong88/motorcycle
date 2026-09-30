@@ -18,8 +18,10 @@
 - [ ] 주문
 - [ ] 장착
 
+Outback Motortek 중고 매물 발견 (Webike, 262,600원, 상태 보통). 비교표는 [purchase-list.md](../purchase-list.md#스키드-플레이트-비교)에 있음.
+
 기존 검토 제품 (모두 재고 없음).
-- Outback Motortek: 품절/단종 (오토모토 회신)
+- Outback Motortek: 신품은 품절/단종 (오토모토 회신). Webike 중고 1개 있음.
 - Touratech, AltRider, SW-Motech, GIVI, ACD Racing: 아마존/전문몰 재고 없음
 
 ## 핸드가드 (너클바)
