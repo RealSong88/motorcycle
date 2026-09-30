@@ -2,35 +2,52 @@
 
 2017 Africa Twin CRF1000L MT 임도 튜닝 부품 구매 목록.
 
-## 구매 확정
+## 구매 확정 - Webike Japan
 
-### 1. 스키드 플레이트 - RDmoto
+Webike 장바구니(`img/webike_cart_*.png`) 12개 중 중복을 정리해 5개로 줄임.
+재고 없는 상품은 중고 상품과 함께 결제할 수 없어 주문을 2건으로 나눔.
 
-- 품번: ECRDH09000230-K (블랙)
-- 브랜드: RDmoto (체코)
-- 엔진 하부 + 배기 파이프 보호 커버리지 포함
-- 구매처: Webike Japan (재고 있음)
-- 장착: 셀프 가능 (볼트온) 또는 정비샵
-- [x] 구매 확정
-- [ ] 주문
+### 주문 A - 중고 + 재고 있음
+
+| 품목 | 품번 | 가격 (KRW) | 비고 |
+|------|------|-----------|------|
+| AltRider 스키드 플레이트 (중고) | 2001003479 | 457,026 (52,800 JPY) | 파트너 창고 재고 1개 |
+| SW-MOTECH 핸드가드 (중고) | RXBI02088E 또는 RXBI02090E 중 1개 | 145,417 (16,800 JPY) | 2017 MT 적합 + 구성품 확인 후 1개만 |
+| ZETA 라디에이터 코어 가드 | F4059 | 126,937 (14,665 JPY) | 신품 |
+| ZETA 와이드 풋페그 크로몰리 57mm | G5061 | 73,990 (8,548 JPY) | 신품 |
+| **소계** | | **약 803,000** | |
+
+### 주문 B - 재고 없음 (따로 주문)
+
+| 품목 | 품번 | 가격 (KRW) | 비고 |
+|------|------|-----------|------|
+| SSK 알루미늄 빌렛 조절식 레버 세트 (클러치+브레이크) | LVFG017BK-BK | 115,867 (13,386 JPY) | 주문 전 접이식(可倒式)인지 확인 |
+
+**합계는 약 92만원이다.** 장바구니 원안은 약 233만원이었다. 관세 8%와 부가세 10%, 배송비는 별도다.
+
+- [x] 품목 확정
+- [ ] 주문 A 결제
+- [ ] 주문 B 결제
 - [ ] 장착
 
-## 재고 없음 - 보류
+### 장바구니에서 뺀 품목
 
-| 항목 | 희망 제품 | 상태 |
-|------|-----------|------|
-| 너클바 | Barkbusters BHG-062 | 오토모토 품절, 아마존 정품 없음 |
-| 접이식 레버 | Zeta Pivot | 아마존 없음, 전문몰 재고 미확인 |
+| 품목 | 가격 (KRW) | 제외 이유 |
+|------|-----------|-----------|
+| RDmoto 스키드 플레이트 ECRDH09000230-K | 454,057 | 재고 없음으로 바뀜. AltRider 중고와 가격이 같고 바로 받을 수 있는 쪽을 택함 |
+| Honda 순정 스키드 플레이트 (중고) | 262,600 | 출고 순정 탈거품으로 보임. 지금 달린 것과 같은 부품 |
+| AltRider 라디에이터 가드 (중고) | 309,878 | ZETA 신품이 18만원 더 쌈 |
+| ZETA 알루미늄 풋페그 F6990 | 101,359 | 크로몰리가 더 싸고, 부딪혀도 깨지지 않고 휘기만 함 |
+| SW-MOTECH 핸드가드 중복 1개 | 145,417 | 같은 제품이 두 개 담겨 있었음 |
+| SSK 레버 LVGM017 (연장형) | 141,315 | 레버가 길수록 넘어질 때 부러지기 쉬움. 세트 중복 |
 
-## 재고 재확인 필요
+## 대안 (주문 B 재고가 안 풀리면)
 
-| 항목 | 구매처 | 확인할 것 |
-|------|--------|-----------|
-| Barkbusters VPS | [Twisted Throttle](https://twistedthrottle.com/shop/protection/hand-guards-and-accessories/hand-guards/barkbusters-vps-handguard-kit-for-honda-africa-twin-crf1000l-16-19-bhg-062-multiple-colors-black-on-black/) | 실제 재고 + 한국 배송 |
-| Zeta Pivot 브레이크 레버 | [CRF's Only](https://www.crfsonly.com/catalog/product_info.php/products_id/6213) | 재고 + 클러치도 있는지 |
-| Zeta Pivot 클러치 레버 | [Webike Japan](https://japan.webike.net/HONDA/CRF1000L+Africa+Twin/ZETA/13685/865/mb/) | 재고 확인 |
-| 스키드 플레이트 | [Touratech USA](https://touratech-usa.com/Honda-Africa-Twin-CRF1000L-Skid-Plates) | 재고 확인 |
-| 스키드 플레이트 | [AltRider](https://www.altrider.com/altrider-skid-plate-for-the-honda-crf1000l-africa-twin-adv-sports/pid/2187) | 재고 확인 |
+| 항목 | 구매처 | 비고 |
+|------|--------|------|
+| Zeta Pivot 레버 | [Webike Japan](https://japan.webike.net/HONDA/CRF1000L+Africa+Twin/ZETA/13685/865/mb/), [CRF's Only](https://www.crfsonly.com/catalog/product_info.php/products_id/6213) | 원래 1순위 |
+| 중국산 접이식 레버 | 알리익스프레스, 아마존 | 3~5만원. 부러지면 바꾸는 소모품으로 사용 |
+| Barkbusters VPS 핸드가드 | [Twisted Throttle](https://twistedthrottle.com/shop/protection/hand-guards-and-accessories/hand-guards/barkbusters-vps-handguard-kit-for-honda-africa-twin-crf1000l-16-19-bhg-062-multiple-colors-black-on-black/) | SW-MOTECH 중고가 맞지 않을 때 |
 
 ## 장착 방법
 
